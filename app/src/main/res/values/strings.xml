@@ -1,0 +1,190 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">HelpMeWaka</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email Address</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="already_have_an_account">Already Have An Account ?</string>
+    <string name="telephone_number">Telephone number</string>
+    <string name="alternate_number">Alternate Number</string>
+    <string name="loginn">Login?</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="reference_details">REFERENCE DETAILS</string>
+    <string name="reference_name">Reference Name</string>
+    <string name="reference_address">Reference Address</string>
+    <string name="reference_phone_number">Reference Phone number</string>
+    <string name="reference_email">Reference Email</string>
+    <string name="don_t_have_an_account">Don\'t Have An Account ?</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="about_us">About Us</string>
+    <string name="service">Services</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="how_it_works">How It Works</string>
+    <string name="cost">Cost</string>
+    <string name="logout">Logout</string>
+
+    <!--Contarctor home-->
+    <string name="head_txt">SIT BACK AND LET\'S RUN YOUR ERRANDS FOR YOU INNIGERIA</string>
+    <string name="how_may_we_help_you">How may we help you?</string>
+    <string name="dummy">“At Helpmewaka.com, we are here to provide our numerous clients, with top notch customer service. We intend to meet and exceed our customers’ expectations in all areas.“</string>
+    <string name="dummynew">We have contracted well-trained and background checked people that are ready to perform any service on your behalf. Helpmewaka.com provides a wide range of services which are not limited to:</string>
+    <string name="dummy1">Finding professionals such as lawyers, doctors, estate surveyors, IT experts etc.</string>
+    <string name="dummy2">Providing assistance with company registrations.</string>
+    <string name="dummy3">Assisting you to locate a good place to stay in Nigeria</string>
+    <string name="dummy4">Assisting you to travel to any part of Nigeria</string>
+    <string name="dummy5">Assisting you to inspect or monitor land acquisitions or buildings</string>
+    <string name="dummy6">Assisting with checking on your loved ones in Nigeria</string>
+    <string name="dummy7">Assisting with getting payments paid on your behalf</string>
+    <string name="dummy8">Assisting with locating people</string>
+    <string name="dummy9">Assisting with paying government / corporate fees</string>
+    <string name="dummy10">Assisting with providing transportation and housing while in Nigeria.</string>
+    <string name="dummy11">Assisting with finding good vacation spots in Nigeria</string>
+    <string name="dummy12">Assisting with security escorts etc.</string>
+    <string name="dummylast">We provide a lot more services, so feel free to reach out to us..</string>
+    <string name="what_we_do">What we Do</string>
+    <string name="dummy_about">Helpmewaka is an errand service platform which solves the basic problem of providing errand services to both diasporians(Nigerians living abroad) and very busy locally based clients who need to get some errand tasks done without affecting their daily schedule.We value the business and trust of our customers very much and we put in an extra effort in verifying that all our third party vendors are reputable individuals.</string>
+    <string name="dummy_green">We have a 4 step approach on using our services.</string>
+    <string name="dummy_it_work">As a customer, you would need to register on our site</string>
+    <string name="dummy_no">Then post the job with all the relevant information such as where the service is to be provided; date and time of request; contact person; telephone number etc.</string>
+    <string name="dummy_work_status">Once payment is received, we assign the request to one of our contractors and the work starts</string>
+    <string name="dummy_feed">We provide the job results and feedback to you.</string>
+    <string name="dummy_req">Should there be a dispute with the service, you can always use our site to file a complaint.</string>
+    <string name="dummy_cost">We offer our service in all the states in Nigeria. However, cost varies on so many factors. For instance, there are some states that do not have good transportation networks, so a customer might be charged higher.</string>
+    <string name="dummy_customer">Once a job is submitted to us, we immediately do the costing and send the total cost to the customer.</string>
+    <string name="dummy_cost_cus">Please note that it is possible for additional costs to be incurred due to other factors that were not mentioned to us by the customer.</string>
+    <string name="dummy_cost_price">We price accordingly and we make sure that our prices are fair.</string>
+    <string name="term_condition"><![CDATA[Terms and Conditions]]></string>
+    <string name="dummy_term">By accessing and using this service, you accept and agree to be bound by the terms and provision of this agreement. In addition, when using these particular services, you shall be subject to any posted guidelines or rules applicable to such services. Any participation in this service will constitute acceptance of this agreement. If you do not agree to abide by the above, please do not use this service.</string>
+    <string name="submit">Submit</string>
+    <string name="moving_services">Moving Services</string>
+    <string name="faq">FAQ</string>
+    <string name="update">Update</string>
+    <string name="degree_skills"><![CDATA[Degree & Skills]]></string>
+    <string name="change_password">Change Password</string>
+    <string name="add_degree_certification">Add Degree/Certification</string>
+    <string name="degree_certification">Degree/Certification</string>
+    <string name="year_of_pass">Year of Pass</string>
+    <string name="skills">Skills</string>
+    <string name="country">Country</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="street_address">Street Address</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_pass">New Password</string>
+    <string name="task_dashboard">Task DashBoard</string>
+    <string name="assigned_date">ASSIGNED DATE</string>
+    <string name="job_deadline">JOB DEADLINE</string>
+    <string name="status">STATUS</string>
+    <string name="task_details">TASK DETAILS</string>
+    <string name="notification">Notification</string>
+    <string name="payment_status">PAYMENT STATUS</string>
+    <string name="job_details">JOB DETAILS</string>
+    <string name="job_status">JOB STATUS</string>
+    <string name="review_pending">Review Pending</string>
+
+
+    <!--Select Support-->
+    <string-array name="SelectSupport">
+        <item>Select Support</item>
+        <item>Technical Support</item>
+        <item>Customer Support</item>
+        <item>Billing Support</item>
+    </string-array>
+
+
+    <!--Network Connection-->
+    <string name="check_internet">Check your internet connection!</string>
+    <string name="invalid_password">Invalid Username Or Password</string>
+    <string name="too_slow">Internet connection too slow</string>
+    <string name="no_internet_access">Internet access not available, Please try again later</string>
+
+    <!--Validation Customer-->
+    <string name="skills_null">Please enter Skills</string>
+    <string name="degree_null">Please enter degree/certification</string>
+    <string name="year_null">Please enter year of passing</string>
+    <string name="fname_null">Please enter first name</string>
+    <string name="lname_null">Please enter last name</string>
+    <string name="email_v">Please enter valid email</string>
+    <string name="password_null">Please enter password</string>
+    <string name="password_v">Password must be more than six character/digit long</string>
+    <string name="cpassword_null">Password not match</string>
+    <string name="phone_null">Please enter your phone number</string>
+    <string name="city_v">Please enter your city</string>
+    <string name="state_v">Please enter your state</string>
+    <string name="zip_v">Please enter your zip code</string>
+    <string name="country_v">Please enter your country</string>
+    <string name="spinner_service_v">Please Select Service</string>
+    <string name="spinner_state_v">Please Select Service State</string>
+
+    <!--Validation Contractor-->
+    <string name="ref_name_v">Please enter reference name</string>
+    <string name="ref_add_v">Please enter reference address</string>
+    <string name="ref_email_v">Please enter reference email</string>
+    <string name="ref_phone_v">Please enter reference phone number</string>
+    <string name="address_v">Please enter address</string>
+    <string name="dob_error">Please select date of birth</string>
+    <string name="select_img">Please select profile image</string>
+    <string name="additional_information">Additional info</string>
+    <string name="contact_person">Contact Person</string>
+    <string name="contact_telephone_number">Telephone no.</string>
+    <string name="any_special_request">Special Request</string>
+    <string name="post_job">Post Job</string>
+    <string name="post_an_errand">Post An Errand</string>
+    <string name="no_record_found">No Record Found</string>
+    <string name="remove">Remove</string>
+    <string name="skip">Skip</string>
+    <string name="view_profile">View Profile</string>
+    <string name="view_more">View More</string>
+    <string name="dispute">Dispute</string>
+    <string name="payment">Payment</string>
+    <string name="contact_admin">Contact Admin</string>
+    <string name="contact_number_of_who_are_too_see">Contact Number of who are too see?</string>
+    <string name="contact_name_of_who_are_too_see">Contact Name of who are too see?</string>
+    <string name="job_update">Job Update</string>
+    <string name="reason_of_dispute">Reason of Dispute</string>
+    <string name="click_here_to_download">Click Here to Download</string>
+    <string name="job_approx_starting_date">Start Date</string>
+    <string name="job_approx_end_date">End Date</string>
+    <string name="how_does_your_service_work">How Does Your Service Work?</string>
+    <string name="we_assign_your_tasks_to_our_safe_and_background_check_contractors_to_each_and_every_job_that_is_assigned_to_us">We assign your tasks to our safe and background check contractors to each and every job that is assigned to us.</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="transaction_id">TRANSACTION ID</string>
+    <string name="milestone">MILESTONE</string>
+    <string name="invoice_id">INVOICE ID</string>
+    <string name="payment_mode">PAYMENT MODE</string>
+    <string name="payment_date">PAYMENT DATE</string>
+    <string name="amount">AMOUNT($)</string>
+    <string name="how_many_days_does_it_take_to_complete_a_task">How many days does it take to complete a task?</string>
+    <string name="we_base_the_completion_of_tasks_on_the_customers_requirements_we_shall_communicate_to_our_client_on_when_we_plan_on_completing_the_task">We base the completion of tasks on the customers requirements. We shall communicate to our client on when we plan on completing the task.</string>
+    <string name="are_there_extra_charges">Are there extra charges?</string>
+    <string name="we_provide_the_cost_of_most_of_our_services_upfront_however_if_there_are_miscellaneous_charges_that_come_up_in_the_process_of_executing_the_errand_task_we_will_update_the_cost_and_inform_the_customer_about_the_changes">We provide the cost of most of our services upfront. However , if there are miscellaneous charges that come up in the process of executing the errand task, we will update the cost and inform the customer about the changes.</string>
+    <string name="do_you_cover_the_whole_of_nigeria">Do you cover the whole of Nigeria?</string>
+    <string name="yes_we_cover_all_states_in_nigeria_including_abuja">Yes , we cover all states in Nigeria including Abuja.</string>
+    <string name="what_if_i_decide_to_cancel_a_request">What if I decide to cancel a request?</string>
+    <string name="once_we_assign_and_dispatch_a_contractor_vendor_to_the_site_we_can_no_longer_cancel_or_refund_money_to_the_customer">Once we assign and dispatch a contractor (vendor) to the site, we can no longer cancel or refund money to the customer.</string>
+    <string name="credit_card_security">Credit Card Security</string>
+    <string name="all_credit_card_transactions_are_encrypted_and_we_do_not_store_credit_card_information_long_term_in_our_servers_for_paypal_payments_we_do_not_have_accessto_credit_card_information_all_those_information_is_abstracted_from_us">All credit card transactions are encrypted. And we do not store credit card information long term in our servers. For PayPal payments, we do not have accessto credit card information. All those information is abstracted from us.</string>
+    <string name="reviews_ratings"><![CDATA[Reviews & Ratings]]></string>
+
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936564225901",
+    "firebase_url": "https://helpmewaka-71893.firebaseio.com",
+    "project_id": "helpmewaka-71893",
+    "storage_bucket": "helpmewaka-71893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936564225901:android:9b751f0a967dacf1528c64",
+        "android_client_info": {
+          "package_name": "com.helpmewaka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936564225901-ctca952v3704ju0dc9r35m6dkk2rtgdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helpmewaka",
+            "certificate_hash": "d1f263011a7b5e50beff38f30d7640cb02475a4b"
+          }
+        },
+        {
+          "client_id": "936564225901-3dvg1hklmqgs37a1h36fuenk10vddlri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKv1085zinSgN9Kd9k-Qmo_Ey6NG_Eps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936564225901-3dvg1hklmqgs37a1h36fuenk10vddlri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

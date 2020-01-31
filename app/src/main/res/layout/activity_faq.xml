@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.activity.common.ActivityFaq">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?android:actionBarSize"
+        android:background="@color/colorPrimary">
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:padding="@dimen/_5sdp"
+            android:src="@drawable/ic_back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/faq"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/_10sdp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:background="@drawable/squere_border_gray"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv1"
+                style="@style/item_list_text_black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/light_gray"
+                android:drawableLeft="@drawable/ic_fab"
+                android:drawablePadding="@dimen/_10sdp"
+                android:gravity="center_vertical"
+                android:padding="@dimen/_10sdp"
+                android:text="@string/how_does_your_service_work" />
+
+            <TextView
+                android:id="@+id/tv_11"
+                style="@style/text_16gray"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:padding="@dimen/_10sdp"
+                android:text="@string/we_assign_your_tasks_to_our_safe_and_background_check_contractors_to_each_and_every_job_that_is_assigned_to_us"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:background="@drawable/squere_border_gray"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv2"
+                style="@style/item_list_text_black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/light_gray"
+                android:drawableLeft="@drawable/ic_fab"
+                android:drawablePadding="@dimen/_10sdp"
+                android:gravity="center_vertical"
+                android:padding="@dimen/_10sdp"
+                android:text="@string/how_many_days_does_it_take_to_complete_a_task" />
+
+            <TextView
+                android:id="@+id/tv_22"
+                style="@style/text_16gray"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:padding="@dimen/_10sdp"
+                android:text="@string/we_base_the_completion_of_tasks_on_the_customers_requirements_we_shall_communicate_to_our_client_on_when_we_plan_on_completing_the_task"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:background="@drawable/squere_border_gray"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv3"
+                style="@style/item_list_text_black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/light_gray"
+                android:drawableLeft="@drawable/ic_fab"
+                android:drawablePadding="@dimen/_10sdp"
+                android:gravity="center_vertical"
+                android:padding="@dimen/_10sdp"
+                android:text="@string/are_there_extra_charges" />
+
+            <TextView
+                android:id="@+id/tv_33"
+                style="@style/text_16gray"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:padding="@dimen/_10sdp"
+                android:text="@string/we_provide_the_cost_of_most_of_our_services_upfront_however_if_there_are_miscellaneous_charges_that_come_up_in_the_process_of_executing_the_errand_task_we_will_update_the_cost_and_inform_the_customer_about_the_changes"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:background="@drawable/squere_border_gray"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv4"
+                style="@style/item_list_text_black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/light_gray"
+                android:drawableLeft="@drawable/ic_fab"
+                android:drawablePadding="@dimen/_10sdp"
+                android:gravity="center_vertical"
+                android:padding="@dimen/_10sdp"
+                android:text="@string/do_you_cover_the_whole_of_nigeria" />
+
+            <TextView
+                android:id="@+id/tv_44"
+                style="@style/text_16gray"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:padding="@dimen/_10sdp"
+                android:text="@string/yes_we_cover_all_states_in_nigeria_including_abuja"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:background="@drawable/squere_border_gray"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv5"
+                style="@style/item_list_text_black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/light_gray"
+                android:drawableLeft="@drawable/ic_fab"
+                android:drawablePadding="@dimen/_10sdp"
+                android:gravity="center_vertical"
+                android:padding="@dimen/_10sdp"
+                android:text="@string/what_if_i_decide_to_cancel_a_request" />
+
+            <TextView
+                android:id="@+id/tv_55"
+                style="@style/text_16gray"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:padding="@dimen/_10sdp"
+                android:text="@string/once_we_assign_and_dispatch_a_contractor_vendor_to_the_site_we_can_no_longer_cancel_or_refund_money_to_the_customer"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:background="@drawable/squere_border_gray"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv6"
+                style="@style/item_list_text_black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/light_gray"
+                android:drawableLeft="@drawable/ic_fab"
+                android:drawablePadding="@dimen/_10sdp"
+                android:gravity="center_vertical"
+                android:padding="@dimen/_10sdp"
+                android:text="@string/credit_card_security" />
+
+            <TextView
+                android:id="@+id/tv_66"
+                style="@style/text_16gray"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:padding="@dimen/_10sdp"
+                android:text="@string/all_credit_card_transactions_are_encrypted_and_we_do_not_store_credit_card_information_long_term_in_our_servers_for_paypal_payments_we_do_not_have_accessto_credit_card_information_all_those_information_is_abstracted_from_us"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
